@@ -1,6 +1,6 @@
 # LEO PROJECT :-->
 
-# <h3>BRIEF INTRODUNCTION :<h3>
+# <h3>BRIEF INTRODUCTION :<h3>
   This project is based of autonomous path planning and motion of Leo rover. We have taken help of openCV to get the structure of our path ahead and 
   our leo itself decides whether to straight, left or right !
   
@@ -38,6 +38,10 @@
   <img src = "https://github.com/AYUSH-ISHAN/leo_project/blob/main/tenor.gif"/>
   
   # <h3>SHOWTIME :<h3>
+  
+  Since we are fully ready with our installation, lets us make our rover work. Follow the following steps to proceed.
+  
+  1. 
   
   
   
