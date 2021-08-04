@@ -43,7 +43,7 @@
   
   1. Open a fresh terminal with the gazebo simulation running on the other one. Fire Up the following command.
   
-              ~/catkin_ws/src $ rosrun leo_drive capture_image.py
+              ~/catkin_ws/src $ rosrun leo_drive controller.py
   
   
   If it runned succssfully it shouyld present the following images.
