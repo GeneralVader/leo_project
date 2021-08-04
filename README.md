@@ -44,6 +44,13 @@
   1. Open a fresh terminal with the gazebo simulation running on the other one. Fire Up the following command.
   
               ~/catkin_ws/src $ rosrun leo_drive capture_image.py
+  
+  
+  If it runned succssfully it shouyld present the following images.
+  
+  <img src = "https://github.com/AYUSH-ISHAN/leo_project/blob/main/mask.png"/>
+  
+  <img src = "https://github.com/AYUSH-ISHAN/leo_project/blob/main/warp_image.png"/>
 
   
   
