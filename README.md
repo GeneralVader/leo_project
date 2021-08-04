@@ -46,7 +46,7 @@
               ~/catkin_ws/src $ rosrun leo_drive controller.py
   
   
-  If it runned succssfully it should present the following images.
+  If it is running succssfully it should present the following images.
  
   The first image is the simple masking of the road while the second one is the bird-view type perspective of the camera.
 
