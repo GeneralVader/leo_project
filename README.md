@@ -1,5 +1,11 @@
 # LEO PROJECT :-->
 
+# <h3>BRIEF INTRODUNCTION :<h3>
+  This project is based of autonomous path planning and motion of Leo rover. We have taken help of openCV to get the structure of our path ahead and 
+  our leo itself decides whether to straight, left or right !
+  
+
+
 # <h3>INSTALLATION :<h3>
   This installation procedure assumes that you have installed ROS Version-1 and Gazebo (preferably version 9).
   1. The first step is the installation of the leo_simulator. You have to go to this link and clone the <a href = "https://github.com/LeoRover/leo_simulator">leo simulator</a> github repo. You can also go to <a href = "http://wiki.ros.org/leo_gazebo">official ROS</a> website of leo gazebo.
@@ -26,6 +32,8 @@
   And now it is : - > 
   
   <img src = "https://github.com/AYUSH-ISHAN/leo_project/blob/main/tenor.gif"/>
+  
+  # <h3>SHOWTIME :<h3>
   
   
   
