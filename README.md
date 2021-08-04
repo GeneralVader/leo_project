@@ -41,7 +41,10 @@
   
   Since we are fully ready with our installation, lets us make our rover work. Follow the following steps to proceed.
   
-  1. 
+  1. Open a fresh terminal with the gazebo simulation running on the other one. Fire Up the following command.
+  
+              ~/catkin_ws/src $ rosrun leo_drive capture_image.py
+
   
   
   
