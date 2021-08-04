@@ -4,6 +4,10 @@
   This project is based of autonomous path planning and motion of Leo rover. We have taken help of openCV to get the structure of our path ahead and 
   our leo itself decides whether to straight, left or right !
   
+  A glimpse of leo Rover.
+  
+  <img src = "https://github.com/AYUSH-ISHAN/leo_project/blob/main/leo.jpg" height = "480" width = "480"/>
+  
 
 
 # <h3>INSTALLATION :<h3>
