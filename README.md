@@ -52,7 +52,6 @@
  
   
   Now, as shown in GIF file, our Rover is able to move on its path.
-  We have also added some additional roads for testing purpose in roads folder of main leo_drive.
   
   # <h3>FUTURE SCOPES :<h3>
   
@@ -62,3 +61,9 @@
   1. <a href = "https://smartlabai.medium.com/deep-learning-based-semantic-segmentation-in-simulation-and-real-world-for-autonomous-vehicles-e7fe25cef816">Autonomous Car using Sematic Segmentation by Zsombor Tóth</a>
   2. <a href = "https://arxiv.org/abs/2002.00444">Autonomous Car using Deep Reinforcement Learning</a>.
   
+  
+  # <h3>TEAM MEMBERS :<h3>
+  
+  <a href = "https://github.com/AYUSH-ISHAN">AYUSH ISHAN</a>    <a href = "https://github.com/jsparrow08">UTKRISHT SINGH</a><br>
+  <a href = "https://github.com/GeneralVader">VARAD VINAYAK PANDEY</a>   <a href = "https://github.com/sherlockholmes1603">CHAHAK JETHANI</aa>
+   
