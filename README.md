@@ -61,6 +61,6 @@
   It is very well known that Autonomous Driving are suffixed with the power of Machine Learning. Therefore, to make our car fully autonomous we may use Sematic Segmentation and Reinforcement Learning to enhance our Leo_Rover learning.<br>
   By fine tuning of parameters, it is very much likely to achieve huge improvements in this project.<br>
   
-  1. <a href = "https://smartlabai.medium.com/deep-learning-based-semantic-segmentation-in-simulation-and-real-world-for-autonomous-vehicles-e7fe25cef816">Sematic Segmentation by Zsombor Tóth</a>
-  
+  1. <a href = "https://smartlabai.medium.com/deep-learning-based-semantic-segmentation-in-simulation-and-real-world-for-autonomous-vehicles-e7fe25cef816">Autonomous Car using Sematic Segmentation by Zsombor Tóth</a>
+  2. <a href = "https://arxiv.org/abs/2002.00444">Autonomous Car using Deep Reinforcement Learning</a>
   
