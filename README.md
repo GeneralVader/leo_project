@@ -6,7 +6,7 @@
   
   A glimpse of leo Rover.
   
-  <img src = "https://github.com/AYUSH-ISHAN/leo_project/blob/main/leo.jpg" height = "480" width = "480"/>
+  <img src = "https://github.com/jsparrow08/leo_project/blob/main/leo.jpg" height = "480" width = "480"/>
   
 
 
@@ -30,12 +30,12 @@
  
   After firing this command the folling should appear on your gazebo.
   
-  <img src = "https://github.com/AYUSH-ISHAN/leo_project/blob/main/leo_road.png"/>
+  <img src = "https://github.com/jsparrow08/leo_project/blob/main/leo_road.png"/>
   
   You got it right ?? If yes then you have successfully completed the installation.
   And now it is : - > 
   
-  <img src = "https://github.com/AYUSH-ISHAN/leo_project/blob/main/tenor.gif"/>
+  <img src = "https://github.com/jsparrow08/leo_project/blob/main/tenor.gif"/>
   
   # <h3>SHOWTIME :<h3>
   
@@ -47,12 +47,7 @@
   
   
   If it runned succssfully it shouyld present the following images.
-  
-  <img src = "https://github.com/AYUSH-ISHAN/leo_project/blob/main/mask.png"/>
-  
-  
-  <img src = "https://github.com/AYUSH-ISHAN/leo_project/blob/main/warp_image.png"/>
-  
+ 
   The first image is the simple masking of the road while the second one is the bird-view type perspective of the camera.
 
   
