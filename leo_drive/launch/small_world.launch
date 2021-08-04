@@ -2,8 +2,8 @@
 
   <include file="$(find leo_gazebo)/launch/leo_gazebo.launch"
            pass_all_args="true">
-    <arg name="world_name" value="$(find leo_drive)/world/road.world"/>
-      <arg name="x" default="25.0"/>
+    <arg name="world_name" value="$(find leo_drive)/world/small_house.world"/>
+      <arg name="x" default="0.0"/>
   <arg name="y" default="0.0"/>
   <arg name="z" default="1.0"/>
   <arg name="R" default="0.0"/>
