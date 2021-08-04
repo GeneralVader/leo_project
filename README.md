@@ -58,6 +58,7 @@
   
   # <h3>FUTURE SCOPES :<h3>
   
-  
+  It is very well known that Autonomous Driving are suffixed with the power of Machine Learning. Therefore, to make our car fully autonomous we may use Sematic Segmentation and Reinforcement Learning to enhance our Leo_Rover learning.<br>
+  By fine tuning of parameters, it is very much likely to achieve huge improvements in this project.<br>
   
   
