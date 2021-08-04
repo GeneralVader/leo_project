@@ -46,15 +46,13 @@
               ~/catkin_ws/src $ rosrun leo_drive controller.py
   
   
-  If it is running succssfully it should present the following images.
+  If it is running succssfully it should appears as shown in GIF below.
+  
+  <img src = "https://github.com/jsparrow08/leo_project/blob/main/Bot_running.gif"/>
  
-  The first image is the simple masking of the road while the second one is the bird-view type perspective of the camera.
-
   
-  
-  
- 
-
+  Now, as shown in GIF file, our Rover is able to move on its path.
+  We have also added some additional roads for testing purpose in roads folder of main leo_drive.
   
   # <h3>FUTURE SCOPES :<h3>
   
