@@ -50,7 +50,10 @@
   
   <img src = "https://github.com/AYUSH-ISHAN/leo_project/blob/main/mask.png"/>
   
+  
   <img src = "https://github.com/AYUSH-ISHAN/leo_project/blob/main/warp_image.png"/>
+  
+  The first image is the simple masking of the road while the second one is the bird-view type perspective of the camera.
 
   
   
