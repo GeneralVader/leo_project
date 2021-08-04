@@ -14,6 +14,10 @@
  4. Open a fresh terminal and launch the following code in it.<br>
   
                   ~/catkin_ws/src $ roslaunch leo_drive spawn_leo.launch
+ 
+  After firing this command the folling should appear on your gazebo.
+  
+  <img src = "https://github.com/AYUSH-ISHAN/leo_project/blob/main/leo_road.png"/>
 
   
   
