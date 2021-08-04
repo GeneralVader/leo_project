@@ -23,6 +23,9 @@
   <img src = "https://github.com/AYUSH-ISHAN/leo_project/blob/main/leo_road.png"/>
   
   You got it right ?? If yes then you have successfully completed the installation.
+  And now it is : - > 
+  
+  <img src = "https://github.com/AYUSH-ISHAN/leo_project/blob/main/tenor.gif"/>
   
   
   
