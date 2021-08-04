@@ -64,6 +64,6 @@
   
   # <h3>TEAM MEMBERS :<h3>
   
-  <a href = "https://github.com/AYUSH-ISHAN">AYUSH ISHAN</a>    <a href = "https://github.com/jsparrow08">UTKRISHT SINGH</a><br>
-  <a href = "https://github.com/GeneralVader">VARAD VINAYAK PANDEY</a>   <a href = "https://github.com/sherlockholmes1603">CHAHAK JETHANI</aa>
+  <a href = "https://github.com/AYUSH-ISHAN">AYUSH ISHAN</a><br>  <a href = "https://github.com/jsparrow08">UTKRISHT SINGH</a><br>
+  <a href = "https://github.com/GeneralVader">VARAD VINAYAK PANDEY</a><br>               <a href = "https://github.com/sherlockholmes1603">CHAHAK JETHANI</a>
    
